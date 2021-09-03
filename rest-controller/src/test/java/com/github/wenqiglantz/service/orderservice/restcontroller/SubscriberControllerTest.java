@@ -20,7 +20,7 @@ import java.util.Map;
 import java.util.UUID;
 
 @ExtendWith(PactConsumerTestExt.class)
-@PactTestFor(providerName = "customer-service", port = "9100", providerType = ProviderType.ASYNCH) //TODO: change port per provider
+@PactTestFor(providerName = "customer-service", port = "9100", providerType = ProviderType.ASYNCH)
 @SpringBootTest
 public class SubscriberControllerTest {
 
