@@ -25,7 +25,7 @@
 		<h2.version>1.4.200</h2.version>
 		<lombok.version>1.18.20</lombok.version>
 		<liquibase.version>4.3.5</liquibase.version>
-		<mssql-jdbc.version>9.2.1.jre11</mssql-jdbc.version>
+		<mssql-jdbc.version>10.1.0.jre11-preview</mssql-jdbc.version>
 		<commons-codec.version>1.12</commons-codec.version>
 		<dapr.version>1.2.0</dapr.version>
 		<okhttp3.version>4.9.0</okhttp3.version>
