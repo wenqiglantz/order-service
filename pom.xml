@@ -22,7 +22,6 @@
 		<spring-cloud.version>2020.0.2</spring-cloud.version>
 		<spring-boot-starter-validation.version>2.5.2</spring-boot-starter-validation.version>
 		<springdoc-openapi.version>1.5.8</springdoc-openapi.version>
-		<h2.version>1.4.200</h2.version>
 		<lombok.version>1.18.20</lombok.version>
 		<liquibase.version>4.3.5</liquibase.version>
 		<mssql-jdbc.version>10.1.0.jre11-preview</mssql-jdbc.version>
@@ -97,12 +96,6 @@
 				<groupId>org.springdoc</groupId>
 				<artifactId>springdoc-openapi-ui</artifactId>
 				<version>${springdoc-openapi.version}</version>
-			</dependency>
-			<dependency>
-				<groupId>com.h2database</groupId>
-				<artifactId>h2</artifactId>
-				<version>${h2.version}</version>
-				<scope>runtime</scope>
 			</dependency>
 			<dependency>
 				<groupId>com.microsoft.sqlserver</groupId>
