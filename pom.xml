@@ -20,7 +20,7 @@
 	<properties>
 		<java.version>11</java.version>
 		<spring-cloud.version>2020.0.2</spring-cloud.version>
-		<spring-boot-starter-validation.version>2.6.7</spring-boot-starter-validation.version>
+		<spring-boot-starter-validation.version>2.7.0</spring-boot-starter-validation.version>
 		<springdoc-openapi.version>1.6.8</springdoc-openapi.version>
 		<lombok.version>1.18.24</lombok.version>
 		<mssql-jdbc.version>11.1.1.jre11-preview</mssql-jdbc.version>
