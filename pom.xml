@@ -32,7 +32,7 @@
 		<jmock.version>2.12.0</jmock.version>
 		<wiremock.version>2.27.2</wiremock.version>
 		<hamcrest.version>2.2</hamcrest.version>
-		<cucumber.version>7.10.0</cucumber.version>
+		<cucumber.version>7.10.1</cucumber.version>
 		<cucumber-reporting.version>5.7.4</cucumber-reporting.version>
 		<pact-consumer-junit5.version>4.2.9</pact-consumer-junit5.version>
 		<pact-consumer-java8.version>4.1.40</pact-consumer-java8.version>
