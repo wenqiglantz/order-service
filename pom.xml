@@ -35,7 +35,7 @@
 		<cucumber.version>7.18.0</cucumber.version>
 		<cucumber-reporting.version>5.8.1</cucumber-reporting.version>
 		<pact-consumer-junit5.version>4.2.9</pact-consumer-junit5.version>
-		<pact-consumer-java8.version>4.1.42</pact-consumer-java8.version>
+		<pact-consumer-java8.version>4.1.43</pact-consumer-java8.version>
 
 		<maven.compiler.version>3.13.0</maven.compiler.version>
 		<maven.surefire.version>3.3.1</maven.surefire.version>
