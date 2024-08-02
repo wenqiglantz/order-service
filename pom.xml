@@ -31,7 +31,7 @@
 		<junit-jupiter.version>5.10.3</junit-jupiter.version>
 		<jmock.version>2.13.1</jmock.version>
 		<wiremock.version>2.27.2</wiremock.version>
-		<hamcrest.version>2.2</hamcrest.version>
+		<hamcrest.version>3.0</hamcrest.version>
 		<cucumber.version>7.18.1</cucumber.version>
 		<cucumber-reporting.version>5.8.2</cucumber-reporting.version>
 		<pact-consumer-junit5.version>4.2.9</pact-consumer-junit5.version>
