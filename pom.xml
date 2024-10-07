@@ -28,7 +28,7 @@
 		<dapr.version>1.12.1</dapr.version>
 		<okhttp3.version>4.12.0</okhttp3.version>
 		<commons-cli.version>1.9.0</commons-cli.version>
-		<junit-jupiter.version>5.11.1</junit-jupiter.version>
+		<junit-jupiter.version>5.11.2</junit-jupiter.version>
 		<jmock.version>2.13.1</jmock.version>
 		<wiremock.version>2.27.2</wiremock.version>
 		<hamcrest.version>3.0</hamcrest.version>
