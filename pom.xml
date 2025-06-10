@@ -33,7 +33,7 @@
 		<wiremock.version>2.27.2</wiremock.version>
 		<hamcrest.version>3.0</hamcrest.version>
 		<cucumber.version>7.23.0</cucumber.version>
-		<cucumber-reporting.version>5.8.4</cucumber-reporting.version>
+		<cucumber-reporting.version>5.8.6</cucumber-reporting.version>
 		<pact-consumer-junit5.version>4.2.9</pact-consumer-junit5.version>
 		<pact-consumer-java8.version>4.1.43</pact-consumer-java8.version>
 
